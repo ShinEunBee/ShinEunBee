@@ -10,13 +10,13 @@
   <div>
   
     안녕하세요! 
-    신은비입니다. 👽 
+    신은비입니다. 👍
     
   </div>
   
   </br>
   
-  <h3> 🤩 Contact! </h3>
+  <h3> 🤩 Me! </h3>
   <a href="http://jjanj1018.cafe24.com/portfolio/Resources/index.html" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-F40552?style=flat&logo=Fonoma&logoColor=white"/>
   </a>
