@@ -17,7 +17,7 @@
   </br>
   
   <h3> 🤩 Me! </h3>
-  <a href="http://jjanj1018.cafe24.com/portfolio/Resources/index.html" target="_blank">
+  <a href="https://ggang.xyz" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-F40552?style=flat&logo=Fonoma&logoColor=white"/>
   </a>
   
