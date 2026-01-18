@@ -6,12 +6,13 @@
     
     🚀 Front-End
     🌱 Enjoys thoughtful problem solving
+    📩 eun1018bee@naver.com
     
   </div>
   
   </br>
 
-  # velog
+  # 📝 Writting
   <div>
       <img src="https://velog-readme-stats.vercel.app/api?name=park-hama" width=40% />
   </div>
