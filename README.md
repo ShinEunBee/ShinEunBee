@@ -1,13 +1,22 @@
 
-<div align="center">
+<div>
   
+  # 👋 I'm GGang.
   <div>
-  
-    안녕하세요! 
-    신은비입니다. 
+    
+    🚀 Front-End
+    🌱 Enjoys thoughtful problem solving
     
   </div>
   
   </br>
+
+  # velog
+  <div>
+      <img src="https://velog-readme-stats.vercel.app/api?name=park-hama" width=40% />
+  </div>
+  <div>
+      👉🏻 <a href="https://velog.io/@park-hama/posts">velog</a>
+  </div>
 </div>
 
