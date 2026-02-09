@@ -6,7 +6,6 @@
     
     🚀 Front-End
     🌱 Enjoys thoughtful problem solving
-    📩 eun1018bee@naver.com
     
   </div>
   
